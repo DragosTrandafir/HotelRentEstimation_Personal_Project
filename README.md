@@ -5,6 +5,8 @@ First, the user can see some simple examples and plots to interact with how the 
 Then, there are 25 input data examples, each with their own features (input) and their price (output) given in a csv file. The user can also see how the cost decreases and then can input some personal features and run the model to predict the price which could be used to rent out this personal hotel room.
 All the other details of the structure and the algorithms are explained next to the code in every box.
 
+The project is inspired by algorithms and ideas presented in the "Machine Learning Specialization" course, by Andrew Ng, from the Coursera official website.
+
 
 Formulas used in the code:
 
