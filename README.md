@@ -1,4 +1,4 @@
-This Jupyter Notebook project contains a machine learning linear regression model which predicts the price to rent out a hotel room by the user, being required some features.
+This Jupyter Notebook project uses machine learning linear regression to predict the price to rent out a hotel room, being required some features.
 
 The file has multiple boxes, which should be run in order in Jupyter Notebook (.ipynb file). Here you can find a tutorial on how to run a Jupyter Notebook project https://youtu.be/r8BXJdE9ChE?si=lSu5zIOUttVggt0r, but there are plenty other tutorials on Youtube. Note that you should first clone the repository on your machine.
 First, the user can see some simple examples and plots to interact with how the algorithms  work.
